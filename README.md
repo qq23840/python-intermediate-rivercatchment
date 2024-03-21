@@ -2,7 +2,7 @@
 
 ![Continuous Integration build in GitHub Actions](https://github.com/qq23840/python-intermediate-rivercatchment/actions/workflows/main.yml/badge.svg?branch=develop)
 
-RiverCatch is a data management system written in Python that manages measurement data collected in river catchment surveys and campaign
+RiverCatch is a data management system written in Python that manages measurement data collected in river catchment surveys and campaign. It was created during the NERC Intermediate Python Workshop (Reproducible Research Through Reusable, Reliable Code)
 
 ## Main Features
 Here are some key features of InFlam:
